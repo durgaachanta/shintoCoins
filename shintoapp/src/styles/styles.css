@@ -1,0 +1,25 @@
+.parentdiv {
+  padding: 20px;
+  margin: 10px;
+  /* border: 1px solid palegoldenrod; */
+  border-radius: 10px;
+  background-color: palegoldenrod;
+}
+
+.btn {
+  padding: 30px;
+  border-radius: 10px;
+  background-color: lightgray;
+  font-size: 20px;
+  margin: 10px;
+}
+
+/* table, th,td {
+  border: 1px solid red;
+} */
+table, th, td {
+  
+  border-collapse: collapse;
+  border: 1px solid grey;
+  
+}

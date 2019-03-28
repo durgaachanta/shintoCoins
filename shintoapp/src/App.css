@@ -1,0 +1,41 @@
+/* .App {
+  text-align: center;
+} */
+
+.App-logo {
+
+  width: 100px;
+  height: 100px; 
+  padding: 10px;
+}
+.navbar {
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+}
+.navtag {
+  text-decoration: none;
+  border: 1px solid grey;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  background-color: lightgray;
+}
+.headerelement {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 0px;
+
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+/* s */
